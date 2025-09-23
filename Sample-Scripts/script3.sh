@@ -6,3 +6,6 @@ if [ $status -eq 200 ]; then
 else
     echo "$url is DOWN (Status: $status)"
 fi
+
+
+echo "Hello World"
